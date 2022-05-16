@@ -1,0 +1,16 @@
+{
+  "name": "CharlyBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EnLaLuchaBot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
